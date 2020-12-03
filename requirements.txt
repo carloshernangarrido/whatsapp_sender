@@ -1,0 +1,4 @@
+openpyxl==3.0.5
+PyAutoGUI==0.9.52
+pywhatkit==3.2
+phonenumbers==8.12.13
